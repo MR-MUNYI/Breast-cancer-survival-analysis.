@@ -24,7 +24,7 @@ This project explores breast cancer patient survival using Python and statistica
 
 ### 1. Overall Kaplan-Meier Survival Curve
 
-![Overall Survival](images/overall_survival.png)
+![Overall Survival](images/kaplan-meier.png)
 
 ### 2. Survival by Cancer Stage
 
